@@ -1,0 +1,1 @@
+/home/mike/coding/docker_postgres/rust_postgresql/target/debug/rust_postgresql: /home/mike/coding/docker_postgres/rust_postgresql/src/ddb.rs /home/mike/coding/docker_postgres/rust_postgresql/src/lib.rs /home/mike/coding/docker_postgres/rust_postgresql/src/main.rs

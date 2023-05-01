@@ -1,0 +1,9 @@
+/home/mike/coding/docker_postgres/rust_postgresql/target/debug/deps/postgres_types-65ceec7d5fa3f9cb.rmeta: /home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/lib.rs /home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/pg_lsn.rs /home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/private.rs /home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/special.rs /home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/type_gen.rs
+
+/home/mike/coding/docker_postgres/rust_postgresql/target/debug/deps/postgres_types-65ceec7d5fa3f9cb.d: /home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/lib.rs /home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/pg_lsn.rs /home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/private.rs /home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/special.rs /home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/type_gen.rs
+
+/home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/lib.rs:
+/home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/pg_lsn.rs:
+/home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/private.rs:
+/home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/special.rs:
+/home/mike/.local/share/cargo/registry/src/github.com-1ecc6299db9ec823/postgres-types-0.2.5/src/type_gen.rs:
